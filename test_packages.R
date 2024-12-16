@@ -1,5 +1,7 @@
 library(shiny)
 #tester lige om lortet virker
-x <- 3
-y <- x + 10
-z <- x + y
+y <- 3
+x <- y + 10
+a <- y + x * 3
+
+#Giv mig en fejl
